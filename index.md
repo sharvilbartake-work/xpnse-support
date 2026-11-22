@@ -32,4 +32,4 @@ XPNSE is not directed at children under 13.
 If this policy changes, the new version will be posted at this address with a new effective date.
 
 ## Contact and support
-Questions, problems or feedback: open an issue at https://github.com/sharvilbartake-work/xpnse-support/issues
+Questions, problems or feedback: work.sharvilbartake@gmail.com
